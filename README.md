@@ -12,3 +12,6 @@ My data science and analytics projects
 4.Looker GA Dashboard
 
 5.Linear Regression Model using caret
+
+## Contact Me
+reach out to me at nunoyearn2542@gmail.com
